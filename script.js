@@ -1,4 +1,4 @@
-// Clears the screen on click of C button.
+
 function clearScreen() {
   document.getElementById("result").value = "";
 }
